@@ -6,5 +6,10 @@ bla bla
 two more k
 here we go
 
+<<<<<<< HEAD
 new verse
 yeah, add good
+=======
+check mate
+or mate check
+>>>>>>> 7c735ebce7c99842ba65526f36f633af4041e315
